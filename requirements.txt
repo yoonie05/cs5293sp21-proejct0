@@ -1,0 +1,12 @@
+
+To run the main.py, the following packages are needed:
+
+urllib.request
+PyPDF2
+io 
+pandas
+sqlite3
+pipenv
+
+
+

@@ -1,0 +1,32 @@
+
+Arnold Chung | arnold.d.chung@outlook.com | Helped me understand error messages and suggested information that helps resolve issues e.g., pandas packages, .loc function, .reset_index function, print results without "()" and ","
+
+Christan Grant | cgrant@ou.edu | Helped me run the main.py in the highest level of project folders: "pipenv install PyPDF2"
+
+Oluwasijibomi Ajisegiri | oluwasijibomi.ajisegiri@ou.edu | Helped me import urllib package: "import rullib.request"
+
+JournalDev | vim copy file to other directory | Helped me read bytes data set
+
+Stackoverflow | https://stackoverflow.com/questions/28991015/python3-project-remove-pycache-folders-and-pyc-files | Helped me remove __pycache__ folders
+
+Stackoverflow | https://stackoverflow.com/questions/28024810/how-we-can-save-database-created-in-sqlite3/39914882 | Helped me save data as .db in sqlite3
+
+GeeksforGeeks | https://www.geeksforgeeks.org/python-sep-parameter-print/ | Helped me set the separator with "|"
+
+GeeksforGeeks | https://www.geeksforgeeks.org/python-merge-list-elements/ | Helped me merge list elements by using .join()
+
+Pandas | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html | Helped me make a dataframe from lists by using pd.DataFrame
+
+Pandas | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.concat.html | Helped me creat outcomes from dataframe by using pandas 
+
+Pandas | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.reset_index.html | Helped me reset data index
+
+Pandas | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.loc.html | Helped me get the header from the first row of the dataframe as column title by using .loc
+
+Pandas | https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html | Helped me create a output csv file by using "output.to_csv"
+
+Pandas | https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rename.html | Helped me change column titles of data frame by using ".rename"
+ 
+
+
+
