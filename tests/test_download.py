@@ -14,6 +14,8 @@ def test_download():
     headers['User-Agent'] = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"
     # Read the data from the url
     p0_data = urllib.request.urlopen(urllib.request.Request(url, headers=headers)).read()
+    assert True
 
-test_download()
+if __name__ == '__main__':
+    test_download()
 

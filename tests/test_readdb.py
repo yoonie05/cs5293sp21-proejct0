@@ -21,8 +21,9 @@ def test_readdb():
     connection.close()
 
     return None
+    assert True
 
 if __name__ == '__main__':
-    readdb()
+    test_readdb()
 
 

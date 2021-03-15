@@ -76,6 +76,8 @@ def test_extract():
         output = output.rename({'Date / Time': 'date_time', 'Incident Number':'incident_time', 'Location': 'incident_location', 'nature': 'nature', 'Incident ORI': 'incident_ori'}, axis='columns')
         # Save the outcome
         output.to_csv("output.csv", index = False)
+        assert True
 
-test_extract()
+if __name__ == '__main__':
+    test_extract()
 
